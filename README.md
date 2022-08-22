@@ -1,2 +1,2 @@
 # Sandbox
-Testområde
+Testområde for skolestart høsten 2022.
